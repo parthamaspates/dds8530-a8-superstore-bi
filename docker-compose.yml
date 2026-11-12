@@ -1,0 +1,32 @@
+# Apache Airflow (standalone: scheduler + web server + metadata DB) for the BI pipeline.
+#   docker compose up -d        then open http://localhost:8080  (user admin / password admin)
+#   docker compose logs -f      watch start-up (first start installs the project venv, ~2 min)
+#   docker compose down         stop
+#
+# The pipeline runs in its own virtual environment (/home/airflow/bi-venv, inside the
+# container, owned by the airflow user) built from
+# requirements.txt, so its library versions (pandas 2.2, SQLAlchemy 2.0) are independent
+# of the ones Airflow itself needs.
+services:
+  airflow:
+    image: apache/airflow:2.10.5-python3.12
+    container_name: superstore-bi-airflow
+    command: >
+      bash -c "( [ -x /home/airflow/bi-venv/bin/python ] || ( python -m venv /home/airflow/bi-venv &&
+                 /home/airflow/bi-venv/bin/pip install --no-cache-dir -r /opt/project/requirements.txt ) ) &&
+               airflow db migrate &&
+               (airflow users create --username admin --password admin --firstname Admin
+                 --lastname User --role Admin --email admin@example.com || true) &&
+               airflow standalone"
+    ports:
+      - "8080:8080"
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/project/dags
+      AIRFLOW__CORE__DEFAULT_TIMEZONE: America/Los_Angeles
+      AIRFLOW__WEBSERVER__DEFAULT_UI_TIMEZONE: America/Los_Angeles
+      BI_ROOT: /opt/project
+      BI_PYTHON: /home/airflow/bi-venv/bin/python
+    volumes:
+      - .:/opt/project
+    restart: unless-stopped
