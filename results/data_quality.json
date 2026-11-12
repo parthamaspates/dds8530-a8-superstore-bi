@@ -1,0 +1,21 @@
+{
+  "rows_in": {
+    "csv": 6682,
+    "sql": 3312
+  },
+  "product_ids_with_conflicting_names": 32,
+  "naive_join_extra_rows": 97,
+  "postal_codes_zero_padded": 443,
+  "duplicate_lines_removed": 1,
+  "rule_missing_value": 0,
+  "rule_ship_before_order": 0,
+  "rule_non_positive_sales": 0,
+  "rule_non_positive_quantity": 0,
+  "rule_discount_out_of_range": 0,
+  "rows_rejected": 0,
+  "rows_out": 9993,
+  "date_range": [
+    "2014-01-03",
+    "2017-12-30"
+  ]
+}

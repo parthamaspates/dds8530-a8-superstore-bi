@@ -1,0 +1,55 @@
+{
+  "selected_model": "random_forest",
+  "selection_rule": "lowest cross-validated MAE on the training period; 2017 is reported, not used for selection",
+  "train_rows": 156,
+  "test_rows": 144,
+  "interval_80pct_ratio_p10_p90": [
+    0.348,
+    2.196
+  ],
+  "actual_2017_total": 733215.0,
+  "forecast_2018_total": 765952.0,
+  "candidates": {
+    "ridge": {
+      "cv_mae": 2409.6,
+      "best_params": {
+        "alpha": 100
+      },
+      "wape_series": 0.4868,
+      "wape_company_monthly": 0.2181,
+      "predicted_total": 666211.0
+    },
+    "random_forest": {
+      "cv_mae": 2368.2,
+      "best_params": {
+        "max_depth": 6,
+        "min_samples_leaf": 10,
+        "n_estimators": 300
+      },
+      "wape_series": 0.4841,
+      "wape_company_monthly": 0.1989,
+      "predicted_total": 636858.0
+    },
+    "gradient_boosting": {
+      "cv_mae": 2520.0,
+      "best_params": {
+        "learning_rate": 0.03,
+        "max_depth": 2,
+        "n_estimators": 100
+      },
+      "wape_series": 0.479,
+      "wape_company_monthly": 0.202,
+      "predicted_total": 631927.0
+    },
+    "seasonal_naive": {
+      "wape_series": 0.5719,
+      "wape_company_monthly": 0.2532,
+      "predicted_total": 609206.0
+    },
+    "last_year_average": {
+      "wape_series": 0.5581,
+      "wape_company_monthly": 0.3371,
+      "predicted_total": 537484.0
+    }
+  }
+}

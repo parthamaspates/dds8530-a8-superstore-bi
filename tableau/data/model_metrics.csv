@@ -1,0 +1,6 @@
+model,selected,cv_mae,wape_series_2017,wape_company_2017,predicted_2017_total,refreshed_at
+ridge,False,2409.6,0.4868,0.2181,666211.0,2026-11-12 06:03 UTC
+random_forest,True,2368.2,0.4841,0.1989,636858.0,2026-11-12 06:03 UTC
+gradient_boosting,False,2520.0,0.479,0.202,631927.0,2026-11-12 06:03 UTC
+seasonal_naive,False,,0.5719,0.2532,609206.0,2026-11-12 06:03 UTC
+last_year_average,False,,0.5581,0.3371,537484.0,2026-11-12 06:03 UTC

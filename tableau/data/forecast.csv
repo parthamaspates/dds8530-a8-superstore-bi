@@ -1,0 +1,721 @@
+category,region,month,actual_sales,predicted,lower_80,upper_80,period,abs_error,refreshed_at
+Furniture,Central,2014-01-01,506.36,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2014-02-01,439.31,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2014-03-01,3639.29,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2014-04-01,1468.22,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2014-05-01,2304.38,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2014-06-01,4284.05,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2014-07-01,2185.9,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2014-08-01,964.48,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2014-09-01,6189.83,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2014-10-01,295.37,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2014-11-01,5189.9,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2014-12-01,5442.59,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2015-01-01,1962.22,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2015-02-01,69.18,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2015-03-01,4219.08,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2015-04-01,1723.78,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2015-05-01,3920.22,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2015-06-01,1069.18,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2015-07-01,2636.16,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2015-08-01,2957.0,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2015-09-01,3573.41,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2015-10-01,3412.06,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2015-11-01,6187.76,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2015-12-01,3862.0,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2016-01-01,3807.91,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2016-02-01,394.43,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2016-03-01,5019.51,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2016-04-01,2233.83,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2016-05-01,4610.92,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2016-06-01,2419.78,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2016-07-01,1950.76,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2016-08-01,1908.39,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2016-09-01,8933.45,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2016-10-01,825.77,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2016-11-01,8186.69,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2016-12-01,10481.72,,,,History,,2026-11-12 06:03 UTC
+Furniture,Central,2017-01-01,2230.01,2453.18,854.26,5386.08,Backtest 2017,223.17,2026-11-12 06:03 UTC
+Furniture,Central,2017-02-01,1204.46,2084.82,725.99,4577.33,Backtest 2017,880.36,2026-11-12 06:03 UTC
+Furniture,Central,2017-03-01,7286.8,2863.5,997.14,6286.96,Backtest 2017,4423.3,2026-11-12 06:03 UTC
+Furniture,Central,2017-04-01,1179.13,3144.32,1094.93,6903.5,Backtest 2017,1965.18,2026-11-12 06:03 UTC
+Furniture,Central,2017-05-01,4559.97,3386.32,1179.2,7434.83,Backtest 2017,1173.65,2026-11-12 06:03 UTC
+Furniture,Central,2017-06-01,5340.77,2965.87,1032.79,6511.72,Backtest 2017,2374.89,2026-11-12 06:03 UTC
+Furniture,Central,2017-07-01,2301.74,3233.14,1125.86,7098.53,Backtest 2017,931.4,2026-11-12 06:03 UTC
+Furniture,Central,2017-08-01,461.01,2668.72,929.31,5859.3,Backtest 2017,2207.71,2026-11-12 06:03 UTC
+Furniture,Central,2017-09-01,5034.31,7184.59,2501.85,15774.12,Backtest 2017,2150.28,2026-11-12 06:03 UTC
+Furniture,Central,2017-10-01,3350.7,5408.97,1883.54,11875.67,Backtest 2017,2058.28,2026-11-12 06:03 UTC
+Furniture,Central,2017-11-01,5068.5,7808.56,2719.13,17144.08,Backtest 2017,2740.07,2026-11-12 06:03 UTC
+Furniture,Central,2017-12-01,6504.89,8331.66,2901.29,18292.57,Backtest 2017,1826.77,2026-11-12 06:03 UTC
+Furniture,Central,2018-01-01,,2427.09,845.17,5328.81,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,Central,2018-02-01,,2086.53,726.58,4581.09,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,Central,2018-03-01,,5096.39,1774.69,11189.37,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,Central,2018-04-01,,3370.31,1173.62,7399.67,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,Central,2018-05-01,,4364.65,1519.88,9582.81,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,Central,2018-06-01,,4831.35,1682.4,10607.47,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,Central,2018-07-01,,4211.63,1466.59,9246.84,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,Central,2018-08-01,,3948.6,1375.0,8669.34,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,Central,2018-09-01,,6302.38,2194.64,13837.19,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,Central,2018-10-01,,5989.8,2085.8,13150.9,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,Central,2018-11-01,,6378.78,2221.25,14004.92,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,Central,2018-12-01,,7432.49,2588.18,16318.39,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,East,2014-01-01,199.0,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2014-02-01,0.0,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2014-03-01,4273.37,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2014-04-01,648.04,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2014-05-01,2433.14,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2014-06-01,3672.69,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2014-07-01,1386.67,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2014-08-01,2010.4,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2014-09-01,10015.2,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2014-10-01,6725.66,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2014-11-01,8322.3,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2014-12-01,7264.89,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2015-01-01,1652.54,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2015-02-01,2137.54,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2015-03-01,516.55,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2015-04-01,2476.04,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2015-05-01,1475.58,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2015-06-01,2273.21,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2015-07-01,5270.52,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2015-08-01,2036.54,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2015-09-01,12308.46,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2015-10-01,2126.69,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2015-11-01,15101.17,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2015-12-01,6442.58,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2016-01-01,1108.19,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2016-02-01,1364.81,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2016-03-01,4515.02,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2016-04-01,3097.36,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2016-05-01,1606.32,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2016-06-01,2762.68,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2016-07-01,1622.7,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2016-08-01,3199.85,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2016-09-01,6028.32,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2016-10-01,5347.68,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2016-11-01,6612.94,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2016-12-01,9121.3,,,,History,,2026-11-12 06:03 UTC
+Furniture,East,2017-01-01,1213.66,3189.74,1110.74,7003.22,Backtest 2017,1976.08,2026-11-12 06:03 UTC
+Furniture,East,2017-02-01,1773.9,3201.17,1114.73,7028.33,Backtest 2017,1427.28,2026-11-12 06:03 UTC
+Furniture,East,2017-03-01,1579.21,4891.11,1703.2,10738.67,Backtest 2017,3311.9,2026-11-12 06:03 UTC
+Furniture,East,2017-04-01,2745.16,4969.73,1730.58,10911.3,Backtest 2017,2224.58,2026-11-12 06:03 UTC
+Furniture,East,2017-05-01,2419.45,4414.86,1537.36,9693.05,Backtest 2017,1995.41,2026-11-12 06:03 UTC
+Furniture,East,2017-06-01,4832.55,4843.86,1686.75,10634.93,Backtest 2017,11.3,2026-11-12 06:03 UTC
+Furniture,East,2017-07-01,2821.53,4427.36,1541.72,9720.49,Backtest 2017,1605.83,2026-11-12 06:03 UTC
+Furniture,East,2017-08-01,8848.09,4898.42,1705.75,10754.72,Backtest 2017,3949.67,2026-11-12 06:03 UTC
+Furniture,East,2017-09-01,10993.65,6772.41,2358.32,14869.17,Backtest 2017,4221.24,2026-11-12 06:03 UTC
+Furniture,East,2017-10-01,5788.8,6550.46,2281.03,14381.86,Backtest 2017,761.66,2026-11-12 06:03 UTC
+Furniture,East,2017-11-01,10882.99,7506.91,2614.09,16481.8,Backtest 2017,3376.08,2026-11-12 06:03 UTC
+Furniture,East,2017-12-01,6954.87,8300.24,2890.35,18223.59,Backtest 2017,1345.38,2026-11-12 06:03 UTC
+Furniture,East,2018-01-01,,2464.01,858.03,5409.85,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,East,2018-02-01,,2333.25,812.5,5122.77,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,East,2018-03-01,,3333.66,1160.86,7319.21,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,East,2018-04-01,,3742.8,1303.33,8217.49,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,East,2018-05-01,,3813.34,1327.9,8372.38,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,East,2018-06-01,,4614.04,1606.72,10130.35,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,East,2018-07-01,,3897.3,1357.14,8556.72,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,East,2018-08-01,,5857.83,2039.84,12861.15,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,East,2018-09-01,,8438.24,2938.4,18526.58,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,East,2018-10-01,,8344.41,2905.73,18320.55,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,East,2018-11-01,,9827.63,3422.22,21577.06,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,East,2018-12-01,,9330.28,3249.03,20485.08,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,South,2014-01-01,4378.73,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2014-02-01,1256.22,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2014-03-01,2740.56,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2014-04-01,2016.1,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2014-05-01,310.88,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2014-06-01,1823.84,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2014-07-01,456.21,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2014-08-01,2744.76,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2014-09-01,524.6,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2014-10-01,2225.35,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2014-11-01,2014.04,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2014-12-01,6476.7,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2015-01-01,4489.86,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2015-02-01,551.26,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2015-03-01,1204.21,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2015-04-01,3959.72,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2015-05-01,226.69,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2015-06-01,2439.3,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2015-07-01,852.12,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2015-08-01,46.15,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2015-09-01,4553.21,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2015-10-01,1695.67,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2015-11-01,3139.52,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2015-12-01,946.11,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2016-01-01,781.18,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2016-02-01,1594.21,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2016-03-01,643.65,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2016-04-01,963.52,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2016-05-01,3982.04,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2016-06-01,1266.86,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2016-07-01,3677.04,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2016-08-01,1083.93,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2016-09-01,4581.11,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2016-10-01,828.7,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2016-11-01,5835.25,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2016-12-01,2683.94,,,,History,,2026-11-12 06:03 UTC
+Furniture,South,2017-01-01,481.86,1764.41,614.41,3873.85,Backtest 2017,1282.56,2026-11-12 06:03 UTC
+Furniture,South,2017-02-01,788.67,1682.41,585.86,3693.82,Backtest 2017,893.74,2026-11-12 06:03 UTC
+Furniture,South,2017-03-01,353.1,1849.96,644.2,4061.68,Backtest 2017,1496.86,2026-11-12 06:03 UTC
+Furniture,South,2017-04-01,2846.99,2210.73,769.83,4853.77,Backtest 2017,636.26,2026-11-12 06:03 UTC
+Furniture,South,2017-05-01,7056.58,2483.56,864.84,5452.78,Backtest 2017,4573.01,2026-11-12 06:03 UTC
+Furniture,South,2017-06-01,2301.99,1815.39,632.16,3985.77,Backtest 2017,486.6,2026-11-12 06:03 UTC
+Furniture,South,2017-07-01,2002.89,2376.74,827.64,5218.26,Backtest 2017,373.86,2026-11-12 06:03 UTC
+Furniture,South,2017-08-01,1485.96,1837.49,639.86,4034.29,Backtest 2017,351.53,2026-11-12 06:03 UTC
+Furniture,South,2017-09-01,1309.2,3838.03,1336.5,8426.59,Backtest 2017,2528.83,2026-11-12 06:03 UTC
+Furniture,South,2017-10-01,7142.37,3434.35,1195.92,7540.28,Backtest 2017,3708.02,2026-11-12 06:03 UTC
+Furniture,South,2017-11-01,6950.55,5072.31,1766.3,11136.5,Backtest 2017,1878.24,2026-11-12 06:03 UTC
+Furniture,South,2017-12-01,5585.28,4621.08,1609.17,10145.81,Backtest 2017,964.2,2026-11-12 06:03 UTC
+Furniture,South,2018-01-01,,2185.63,761.09,4798.65,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,South,2018-02-01,,1996.48,695.22,4383.37,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,South,2018-03-01,,2362.63,822.72,5187.26,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,South,2018-04-01,,2327.34,810.44,5109.79,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,South,2018-05-01,,4298.94,1497.0,9438.53,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,South,2018-06-01,,2414.97,840.95,5302.18,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,South,2018-07-01,,2339.3,814.6,5136.06,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,South,2018-08-01,,2729.22,950.38,5992.14,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,South,2018-09-01,,3520.51,1225.93,7729.45,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,South,2018-10-01,,6662.04,2319.89,14626.84,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,South,2018-11-01,,7044.13,2452.94,15465.74,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,South,2018-12-01,,6693.72,2330.92,14696.38,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,West,2014-01-01,1158.44,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2014-02-01,144.13,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2014-03-01,3920.73,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2014-04-01,3531.1,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2014-05-01,1864.38,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2014-06-01,3425.55,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2014-07-01,6792.27,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2014-08-01,1600.7,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2014-09-01,7086.85,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2014-10-01,3057.87,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2014-11-01,6038.64,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2014-12-01,11461.79,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2015-01-01,3635.31,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2015-02-01,376.38,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2015-03-01,6559.95,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2015-04-01,2316.15,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2015-05-01,3752.47,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2015-06-01,1932.49,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2015-07-01,4915.62,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2015-08-01,4598.9,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2015-09-01,5837.95,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2015-10-01,4792.21,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2015-11-01,6452.38,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2015-12-01,11835.13,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2016-01-01,1925.46,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2016-02-01,572.1,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2016-03-01,2622.91,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2016-04-01,6917.37,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2016-05-01,4920.55,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2016-06-01,6621.25,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2016-07-01,5818.01,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2016-08-01,6291.06,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2016-09-01,7720.0,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2016-10-01,4870.43,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2016-11-01,11148.75,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2016-12-01,14391.75,,,,History,,2026-11-12 06:03 UTC
+Furniture,West,2017-01-01,2038.51,3511.32,1222.73,7709.27,Backtest 2017,1472.81,2026-11-12 06:03 UTC
+Furniture,West,2017-02-01,3099.31,3243.31,1129.4,7120.86,Backtest 2017,144.01,2026-11-12 06:03 UTC
+Furniture,West,2017-03-01,1674.33,4500.18,1567.07,9880.37,Backtest 2017,2825.85,2026-11-12 06:03 UTC
+Furniture,West,2017-04-01,2294.68,5577.9,1942.36,12246.56,Backtest 2017,3283.23,2026-11-12 06:03 UTC
+Furniture,West,2017-05-01,2921.57,5071.01,1765.85,11133.64,Backtest 2017,2149.44,2026-11-12 06:03 UTC
+Furniture,West,2017-06-01,6533.28,5445.54,1896.27,11955.95,Backtest 2017,1087.74,2026-11-12 06:03 UTC
+Furniture,West,2017-07-01,4686.86,5423.17,1888.48,11906.83,Backtest 2017,736.3,2026-11-12 06:03 UTC
+Furniture,West,2017-08-01,4646.82,5438.81,1893.93,11941.17,Backtest 2017,791.99,2026-11-12 06:03 UTC
+Furniture,West,2017-09-01,11691.05,7372.16,2567.17,16185.95,Backtest 2017,4318.89,2026-11-12 06:03 UTC
+Furniture,West,2017-10-01,5602.2,6621.52,2305.78,14537.87,Backtest 2017,1019.32,2026-11-12 06:03 UTC
+Furniture,West,2017-11-01,14154.68,7996.41,2784.55,17556.52,Backtest 2017,6158.27,2026-11-12 06:03 UTC
+Furniture,West,2017-12-01,12362.43,8372.67,2915.57,18382.6,Backtest 2017,3989.76,2026-11-12 06:03 UTC
+Furniture,West,2018-01-01,,2706.58,942.5,5942.44,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,West,2018-02-01,,3065.78,1067.58,6731.07,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,West,2018-03-01,,3568.36,1242.59,7834.5,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,West,2018-04-01,,4346.76,1513.65,9543.52,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,West,2018-05-01,,4427.44,1541.74,9720.67,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,West,2018-06-01,,6214.31,2163.98,13643.83,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,West,2018-07-01,,5082.39,1769.81,11158.63,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,West,2018-08-01,,5594.48,1948.14,12282.95,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,West,2018-09-01,,9296.91,3237.41,20411.81,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,West,2018-10-01,,8767.21,3052.96,19248.85,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,West,2018-11-01,,10298.84,3586.31,22611.61,Forecast 2018,,2026-11-12 06:03 UTC
+Furniture,West,2018-12-01,,10151.03,3534.84,22287.08,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,Central,2014-01-01,1002.35,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2014-02-01,262.65,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2014-03-01,1281.47,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2014-04-01,1257.79,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2014-05-01,797.6,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2014-06-01,4669.89,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2014-07-01,3446.51,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2014-08-01,1186.53,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2014-09-01,12488.71,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2014-10-01,1758.68,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2014-11-01,6127.02,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2014-12-01,2722.48,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2015-01-01,149.89,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2015-02-01,814.25,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2015-03-01,916.81,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2015-04-01,6692.14,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2015-05-01,1771.93,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2015-06-01,1015.99,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2015-07-01,1232.3,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2015-08-01,2198.03,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2015-09-01,636.89,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2015-10-01,719.12,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2015-11-01,7283.9,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2015-12-01,2030.13,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2016-01-01,317.64,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2016-02-01,651.36,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2016-03-01,5030.66,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2016-04-01,3377.47,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2016-05-01,4327.5,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2016-06-01,1419.72,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2016-07-01,4242.71,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2016-08-01,1829.91,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2016-09-01,4310.47,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2016-10-01,4636.26,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2016-11-01,4393.07,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2016-12-01,11256.02,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,Central,2017-01-01,12704.29,1770.29,616.46,3886.76,Backtest 2017,10934.0,2026-11-12 06:03 UTC
+Office Supplies,Central,2017-02-01,1391.35,1797.39,625.9,3946.26,Backtest 2017,406.04,2026-11-12 06:03 UTC
+Office Supplies,Central,2017-03-01,3236.21,2319.36,807.66,5092.27,Backtest 2017,916.85,2026-11-12 06:03 UTC
+Office Supplies,Central,2017-04-01,1521.1,2518.17,876.89,5528.76,Backtest 2017,997.07,2026-11-12 06:03 UTC
+Office Supplies,Central,2017-05-01,5555.78,2805.61,976.98,6159.86,Backtest 2017,2750.17,2026-11-12 06:03 UTC
+Office Supplies,Central,2017-06-01,4775.7,2151.14,749.08,4722.93,Backtest 2017,2624.56,2026-11-12 06:03 UTC
+Office Supplies,Central,2017-07-01,4152.93,2738.01,953.44,6011.44,Backtest 2017,1414.92,2026-11-12 06:03 UTC
+Office Supplies,Central,2017-08-01,2344.94,2210.08,769.6,4852.34,Backtest 2017,134.86,2026-11-12 06:03 UTC
+Office Supplies,Central,2017-09-01,4572.42,5559.21,1935.85,12205.51,Backtest 2017,986.79,2026-11-12 06:03 UTC
+Office Supplies,Central,2017-10-01,4628.35,5790.16,2016.28,12712.57,Backtest 2017,1161.8,2026-11-12 06:03 UTC
+Office Supplies,Central,2017-11-01,6016.68,6199.12,2158.69,13610.48,Backtest 2017,182.45,2026-11-12 06:03 UTC
+Office Supplies,Central,2017-12-01,7870.8,8258.07,2875.67,18131.01,Backtest 2017,387.27,2026-11-12 06:03 UTC
+Office Supplies,Central,2018-01-01,,5166.23,1799.01,11342.71,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,Central,2018-02-01,,2461.36,857.11,5404.04,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,Central,2018-03-01,,4187.36,1458.14,9193.56,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,Central,2018-04-01,,3722.88,1296.4,8173.76,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,Central,2018-05-01,,5066.8,1764.38,11124.41,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,Central,2018-06-01,,4764.72,1659.19,10461.19,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,Central,2018-07-01,,4595.22,1600.17,10089.03,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,Central,2018-08-01,,4838.75,1684.97,10623.71,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,Central,2018-09-01,,6709.53,2336.42,14731.11,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,Central,2018-10-01,,6546.18,2279.54,14372.46,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,Central,2018-11-01,,8730.5,3040.18,19168.25,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,Central,2018-12-01,,8736.16,3042.15,19180.66,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,East,2014-01-01,112.97,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2014-02-01,84.42,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2014-03-01,1022.91,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2014-04-01,1756.82,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2014-05-01,1718.01,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2014-06-01,3392.63,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2014-07-01,527.26,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2014-08-01,1830.69,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2014-09-01,8440.58,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2014-10-01,1757.21,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2014-11-01,9871.39,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2014-12-01,5454.11,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2015-01-01,711.48,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2015-02-01,3089.68,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2015-03-01,3993.23,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2015-04-01,2308.01,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2015-05-01,2763.54,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2015-06-01,4647.83,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2015-07-01,1945.9,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2015-08-01,4719.0,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2015-09-01,7584.23,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2015-10-01,604.9,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2015-11-01,6020.09,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2015-12-01,4267.35,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2016-01-01,2581.87,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2016-02-01,1564.58,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2016-03-01,3807.41,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2016-04-01,3995.27,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2016-05-01,4319.44,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2016-06-01,6492.16,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2016-07-01,3703.38,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2016-08-01,4534.27,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2016-09-01,11701.13,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2016-10-01,2868.66,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2016-11-01,4456.89,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2016-12-01,11776.13,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,East,2017-01-01,2972.22,2847.73,991.65,6252.32,Backtest 2017,124.49,2026-11-12 06:03 UTC
+Office Supplies,East,2017-02-01,1514.81,2443.11,850.75,5363.97,Backtest 2017,928.3,2026-11-12 06:03 UTC
+Office Supplies,East,2017-03-01,2256.57,3469.79,1208.27,7618.09,Backtest 2017,1213.22,2026-11-12 06:03 UTC
+Office Supplies,East,2017-04-01,6328.46,3901.62,1358.64,8566.19,Backtest 2017,2426.84,2026-11-12 06:03 UTC
+Office Supplies,East,2017-05-01,2218.58,4026.76,1402.22,8840.94,Backtest 2017,1808.17,2026-11-12 06:03 UTC
+Office Supplies,East,2017-06-01,4279.5,4383.73,1526.52,9624.71,Backtest 2017,104.23,2026-11-12 06:03 UTC
+Office Supplies,East,2017-07-01,3226.86,4177.44,1454.69,9171.78,Backtest 2017,950.58,2026-11-12 06:03 UTC
+Office Supplies,East,2017-08-01,9556.47,4154.88,1446.83,9122.24,Backtest 2017,5401.6,2026-11-12 06:03 UTC
+Office Supplies,East,2017-09-01,8761.8,7318.98,2548.65,16069.18,Backtest 2017,1442.82,2026-11-12 06:03 UTC
+Office Supplies,East,2017-10-01,3576.6,6550.7,2281.12,14382.39,Backtest 2017,2974.1,2026-11-12 06:03 UTC
+Office Supplies,East,2017-11-01,12166.42,7079.16,2465.14,15542.65,Backtest 2017,5087.26,2026-11-12 06:03 UTC
+Office Supplies,East,2017-12-01,8232.31,8313.02,2894.8,18251.65,Backtest 2017,80.71,2026-11-12 06:03 UTC
+Office Supplies,East,2018-01-01,,3182.97,1108.39,6988.36,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,East,2018-02-01,,2418.7,842.25,5310.37,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,East,2018-03-01,,3988.06,1388.74,8755.99,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,East,2018-04-01,,5400.34,1880.53,11856.72,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,East,2018-05-01,,4060.52,1413.97,8915.07,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,East,2018-06-01,,4759.12,1657.24,10448.88,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,East,2018-07-01,,4684.71,1631.33,10285.52,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,East,2018-08-01,,6202.82,2159.98,13618.6,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,East,2018-09-01,,8448.63,2942.02,18549.39,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,East,2018-10-01,,7038.88,2451.11,15454.21,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,East,2018-11-01,,10167.92,3540.72,22324.17,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,East,2018-12-01,,9513.0,3312.66,20886.26,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,South,2014-01-01,1955.47,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2014-02-01,50.8,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2014-03-01,1623.78,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2014-04-01,7088.6,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2014-05-01,3415.78,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2014-06-01,1105.73,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2014-07-01,317.02,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2014-08-01,2719.1,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2014-09-01,2335.74,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2014-10-01,1147.02,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2014-11-01,2868.26,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2014-12-01,1331.58,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2015-01-01,475.97,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2015-02-01,575.26,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2015-03-01,8589.98,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2015-04-01,324.55,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2015-05-01,714.1,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2015-06-01,4118.42,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2015-07-01,721.38,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2015-08-01,1043.79,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2015-09-01,4958.15,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2015-10-01,2238.57,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2015-11-01,3922.91,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2015-12-01,3570.21,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2016-01-01,1665.83,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2016-02-01,3451.28,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2016-03-01,2110.59,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2016-04-01,1049.99,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2016-05-01,3273.6,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2016-06-01,717.28,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2016-07-01,1690.96,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2016-08-01,1143.77,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2016-09-01,2793.58,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2016-10-01,1237.22,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2016-11-01,4230.19,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2016-12-01,5302.32,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,South,2017-01-01,578.2,1764.24,614.35,3873.47,Backtest 2017,1186.04,2026-11-12 06:03 UTC
+Office Supplies,South,2017-02-01,1365.04,2202.74,767.05,4836.21,Backtest 2017,837.7,2026-11-12 06:03 UTC
+Office Supplies,South,2017-03-01,2059.42,1967.09,684.99,4318.85,Backtest 2017,92.33,2026-11-12 06:03 UTC
+Office Supplies,South,2017-04-01,4553.88,2310.22,804.48,5072.2,Backtest 2017,2243.66,2026-11-12 06:03 UTC
+Office Supplies,South,2017-05-01,2084.36,2660.43,926.43,5841.11,Backtest 2017,576.08,2026-11-12 06:03 UTC
+Office Supplies,South,2017-06-01,2497.75,2009.77,699.85,4412.55,Backtest 2017,487.98,2026-11-12 06:03 UTC
+Office Supplies,South,2017-07-01,651.86,2316.36,806.61,5085.68,Backtest 2017,1664.5,2026-11-12 06:03 UTC
+Office Supplies,South,2017-08-01,3298.15,1963.98,683.9,4312.01,Backtest 2017,1334.17,2026-11-12 06:03 UTC
+Office Supplies,South,2017-09-01,7391.08,3676.21,1280.15,8071.29,Backtest 2017,3714.87,2026-11-12 06:03 UTC
+Office Supplies,South,2017-10-01,3873.81,3365.82,1172.06,7389.82,Backtest 2017,507.99,2026-11-12 06:03 UTC
+Office Supplies,South,2017-11-01,6310.29,4594.57,1599.94,10087.6,Backtest 2017,1715.72,2026-11-12 06:03 UTC
+Office Supplies,South,2017-12-01,5108.69,4771.86,1661.68,10476.85,Backtest 2017,336.83,2026-11-12 06:03 UTC
+Office Supplies,South,2018-01-01,,2482.11,864.33,5449.59,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,South,2018-02-01,,2197.44,765.2,4824.59,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,South,2018-03-01,,2212.52,770.45,4857.69,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,South,2018-04-01,,3044.51,1060.17,6684.37,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,South,2018-05-01,,2578.45,897.88,5661.11,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,South,2018-06-01,,2548.76,887.54,5595.92,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,South,2018-07-01,,2776.17,966.73,6095.21,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,South,2018-08-01,,2837.15,987.96,6229.1,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,South,2018-09-01,,6258.99,2179.53,13741.91,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,South,2018-10-01,,5171.11,1800.71,11353.43,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,South,2018-11-01,,7119.09,2479.04,15630.3,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,South,2018-12-01,,5655.15,1969.26,12416.17,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,West,2014-01-01,1780.29,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2014-02-01,673.86,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2014-03-01,4677.71,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2014-04-01,1051.86,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2014-05-01,1204.25,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2014-06-01,3784.79,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2014-07-01,10830.42,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2014-08-01,5643.14,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2014-09-01,4158.28,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2014-10-01,2548.23,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2014-11-01,7995.76,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2014-12-01,8498.29,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2015-01-01,471.45,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2015-02-01,888.87,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2015-03-01,2382.53,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2015-04-01,3233.85,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2015-05-01,3864.16,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2015-06-01,865.51,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2015-07-01,820.35,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2015-08-01,3774.29,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2015-09-01,6126.5,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2015-10-01,5110.81,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2015-11-01,3991.23,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2015-12-01,6333.99,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2016-01-01,734.34,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2016-02-01,1127.12,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2016-03-01,6398.28,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2016-04-01,2224.71,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2016-05-01,1114.66,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2016-06-01,2272.65,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2016-07-01,3287.39,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2016-08-01,1451.79,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2016-09-01,4458.55,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2016-10-01,7539.66,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2016-11-01,7407.13,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2016-12-01,9663.09,,,,History,,2026-11-12 06:03 UTC
+Office Supplies,West,2017-01-01,5019.59,2149.0,748.33,4718.23,Backtest 2017,2870.59,2026-11-12 06:03 UTC
+Office Supplies,West,2017-02-01,3136.58,2128.13,741.07,4672.42,Backtest 2017,1008.44,2026-11-12 06:03 UTC
+Office Supplies,West,2017-03-01,6998.08,4019.59,1399.72,8825.2,Backtest 2017,2978.49,2026-11-12 06:03 UTC
+Office Supplies,West,2017-04-01,2668.76,3449.85,1201.32,7574.31,Backtest 2017,781.09,2026-11-12 06:03 UTC
+Office Supplies,West,2017-05-01,3878.24,3158.37,1099.82,6934.36,Backtest 2017,719.87,2026-11-12 06:03 UTC
+Office Supplies,West,2017-06-01,5359.09,2881.06,1003.26,6325.51,Backtest 2017,2478.03,2026-11-12 06:03 UTC
+Office Supplies,West,2017-07-01,2209.82,3775.56,1314.74,8289.43,Backtest 2017,1565.74,2026-11-12 06:03 UTC
+Office Supplies,West,2017-08-01,14860.29,2803.84,976.37,6155.98,Backtest 2017,12056.45,2026-11-12 06:03 UTC
+Office Supplies,West,2017-09-01,11170.55,5613.79,1954.86,12325.34,Backtest 2017,5556.76,2026-11-12 06:03 UTC
+Office Supplies,West,2017-10-01,10958.43,6556.53,2283.15,14395.19,Backtest 2017,4401.9,2026-11-12 06:03 UTC
+Office Supplies,West,2017-11-01,6978.95,7802.19,2716.91,17130.09,Backtest 2017,823.24,2026-11-12 06:03 UTC
+Office Supplies,West,2017-12-01,9225.14,8253.4,2874.04,18120.75,Backtest 2017,971.74,2026-11-12 06:03 UTC
+Office Supplies,West,2018-01-01,,4040.47,1406.99,8871.06,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,West,2018-02-01,,3289.95,1145.64,7223.25,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,West,2018-03-01,,5756.58,2004.58,12638.87,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,West,2018-04-01,,4617.87,1608.05,10138.75,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,West,2018-05-01,,4548.99,1584.07,9987.54,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,West,2018-06-01,,5563.39,1937.31,12214.71,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,West,2018-07-01,,4638.0,1615.06,10182.95,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,West,2018-08-01,,7279.24,2534.81,15981.93,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,West,2018-09-01,,9277.53,3230.67,20369.28,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,West,2018-10-01,,9647.59,3359.53,21181.76,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,West,2018-11-01,,9807.99,3415.38,21533.92,Forecast 2018,,2026-11-12 06:03 UTC
+Office Supplies,West,2018-12-01,,9633.21,3354.52,21150.2,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,Central,2014-01-01,31.2,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2014-02-01,531.21,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2014-03-01,906.84,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2014-04-01,986.33,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2014-05-01,946.53,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2014-06-01,692.36,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2014-07-01,1108.17,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2014-08-01,871.17,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2014-09-01,15730.16,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2014-10-01,6911.71,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2014-11-01,2740.64,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2014-12-01,2470.5,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2015-01-01,398.4,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2015-02-01,1644.15,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2015-03-01,1594.38,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2015-04-01,3226.13,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2015-05-01,2931.75,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2015-06-01,1628.02,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2015-07-01,3737.1,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2015-08-01,4146.42,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2015-09-01,3368.22,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2015-10-01,2869.3,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2015-11-01,5431.43,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2015-12-01,10845.48,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2016-01-01,1816.61,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2016-02-01,69.93,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2016-03-01,3103.65,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2016-04-01,1851.05,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2016-05-01,2805.54,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2016-06-01,2713.65,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2016-07-01,2701.0,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2016-08-01,3244.25,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2016-09-01,4259.28,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2016-10-01,20370.32,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2016-11-01,4330.56,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2016-12-01,3597.58,,,,History,,2026-11-12 06:03 UTC
+Technology,Central,2017-01-01,6756.36,2759.88,961.06,6059.46,Backtest 2017,3996.48,2026-11-12 06:03 UTC
+Technology,Central,2017-02-01,739.02,2475.91,862.17,5435.99,Backtest 2017,1736.9,2026-11-12 06:03 UTC
+Technology,Central,2017-03-01,4981.57,3720.12,1295.44,8167.71,Backtest 2017,1261.45,2026-11-12 06:03 UTC
+Technology,Central,2017-04-01,682.89,3650.9,1271.33,8015.73,Backtest 2017,2968.01,2026-11-12 06:03 UTC
+Technology,Central,2017-05-01,1473.1,3817.24,1329.26,8380.93,Backtest 2017,2344.13,2026-11-12 06:03 UTC
+Technology,Central,2017-06-01,2850.3,3706.68,1290.76,8138.19,Backtest 2017,856.38,2026-11-12 06:03 UTC
+Technology,Central,2017-07-01,2418.28,3729.5,1298.7,8188.3,Backtest 2017,1311.21,2026-11-12 06:03 UTC
+Technology,Central,2017-08-01,3447.04,3052.81,1063.06,6702.6,Backtest 2017,394.23,2026-11-12 06:03 UTC
+Technology,Central,2017-09-01,7736.27,6157.15,2144.07,13518.32,Backtest 2017,1579.13,2026-11-12 06:03 UTC
+Technology,Central,2017-10-01,4143.29,7674.88,2672.58,16850.58,Backtest 2017,3531.6,2026-11-12 06:03 UTC
+Technology,Central,2017-11-01,4069.81,7464.4,2599.29,16388.46,Backtest 2017,3394.59,2026-11-12 06:03 UTC
+Technology,Central,2017-12-01,4507.38,7859.34,2736.82,17255.57,Backtest 2017,3351.96,2026-11-12 06:03 UTC
+Technology,Central,2018-01-01,,5222.45,1818.58,11466.14,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,Central,2018-02-01,,2652.07,923.52,5822.76,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,Central,2018-03-01,,4967.01,1729.64,10905.32,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,Central,2018-04-01,,4035.22,1405.16,8859.53,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,Central,2018-05-01,,4294.36,1495.4,9428.49,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,Central,2018-06-01,,4920.78,1713.54,10803.82,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,Central,2018-07-01,,4884.91,1701.05,10725.07,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,Central,2018-08-01,,5234.03,1822.62,11491.57,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,Central,2018-09-01,,8202.28,2856.24,18008.51,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,Central,2018-10-01,,6354.26,2212.71,13951.09,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,Central,2018-11-01,,6620.44,2305.4,14535.51,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,Central,2018-12-01,,6776.74,2359.83,14878.67,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,East,2014-01-01,124.2,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2014-02-01,115.36,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2014-03-01,647.1,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2014-04-01,368.67,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2014-05-01,3098.95,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2014-06-01,3693.84,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2014-07-01,1654.21,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2014-08-01,741.36,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2014-09-01,6837.01,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2014-10-01,462.26,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2014-11-01,15757.09,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2014-12-01,11978.67,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2015-01-01,2306.98,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2015-02-01,1235.91,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2015-03-01,1501.97,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2015-04-01,2994.74,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2015-05-01,3242.31,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2015-06-01,521.94,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2015-07-01,4656.24,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2015-08-01,2708.23,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2015-09-01,9548.3,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2015-10-01,3570.43,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2015-11-01,13603.5,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2015-12-01,13968.83,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2016-01-01,1170.03,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2016-02-01,220.43,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2016-03-01,8442.42,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2016-04-01,10747.33,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2016-05-01,16663.52,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2016-06-01,2482.56,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2016-07-01,3198.11,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2016-08-01,1530.84,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2016-09-01,2533.05,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2016-10-01,6849.13,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2016-11-01,11912.26,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2016-12-01,6747.77,,,,History,,2026-11-12 06:03 UTC
+Technology,East,2017-01-01,1197.41,3566.59,1241.97,7830.62,Backtest 2017,2369.18,2026-11-12 06:03 UTC
+Technology,East,2017-02-01,1679.81,3556.32,1238.4,7808.08,Backtest 2017,1876.51,2026-11-12 06:03 UTC
+Technology,East,2017-03-01,3864.17,5826.33,2028.87,12792.0,Backtest 2017,1962.16,2026-11-12 06:03 UTC
+Technology,East,2017-04-01,1157.29,5939.0,2068.11,13039.37,Backtest 2017,4781.71,2026-11-12 06:03 UTC
+Technology,East,2017-05-01,1481.34,5941.03,2068.81,13043.81,Backtest 2017,4459.69,2026-11-12 06:03 UTC
+Technology,East,2017-06-01,6049.17,5196.87,1809.68,11409.99,Backtest 2017,852.3,2026-11-12 06:03 UTC
+Technology,East,2017-07-01,6273.43,5374.23,1871.44,11799.4,Backtest 2017,899.2,2026-11-12 06:03 UTC
+Technology,East,2017-08-01,2353.9,4697.84,1635.9,10314.33,Backtest 2017,2343.94,2026-11-12 06:03 UTC
+Technology,East,2017-09-01,12660.64,6820.02,2374.9,14973.69,Backtest 2017,5840.63,2026-11-12 06:03 UTC
+Technology,East,2017-10-01,22939.79,7573.44,2637.26,16627.87,Backtest 2017,15366.35,2026-11-12 06:03 UTC
+Technology,East,2017-11-01,22584.22,8152.29,2838.83,17898.75,Backtest 2017,14431.94,2026-11-12 06:03 UTC
+Technology,East,2017-12-01,4897.24,8480.61,2953.16,18619.59,Backtest 2017,3583.37,2026-11-12 06:03 UTC
+Technology,East,2018-01-01,,2676.66,932.08,5876.73,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,East,2018-02-01,,2606.08,907.5,5721.77,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,East,2018-03-01,,4925.84,1715.3,10814.93,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,East,2018-04-01,,4146.25,1443.83,9103.31,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,East,2018-05-01,,4365.45,1520.16,9584.56,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,East,2018-06-01,,6043.0,2104.32,13267.69,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,East,2018-07-01,,6260.84,2180.18,13745.98,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,East,2018-08-01,,5234.12,1822.65,11491.78,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,East,2018-09-01,,9105.46,3170.75,19991.49,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,East,2018-10-01,,9908.49,3450.38,21754.57,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,East,2018-11-01,,10407.36,3624.1,22849.88,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,East,2018-12-01,,7949.69,2768.28,17453.93,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,South,2014-01-01,2987.89,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2014-02-01,721.97,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2014-03-01,28546.78,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2014-04-01,3079.91,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2014-05-01,2052.58,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2014-06-01,1630.68,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2014-07-01,1055.89,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2014-08-01,1592.74,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2014-09-01,4315.0,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2014-10-01,1441.38,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2014-11-01,2546.45,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2014-12-01,947.7,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2015-01-01,0.0,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2015-02-01,29.99,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2015-03-01,527.9,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2015-04-01,1434.06,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2015-05-01,1042.91,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2015-06-01,1994.46,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2015-07-01,623.77,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2015-08-01,4494.81,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2015-09-01,4166.13,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2015-10-01,151.49,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2015-11-01,733.39,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2015-12-01,803.96,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2016-01-01,1635.41,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2016-02-01,10567.61,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2016-03-01,1483.94,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2016-04-01,952.19,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2016-05-01,4704.59,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2016-06-01,1471.75,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2016-07-01,1194.42,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2016-08-01,822.31,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2016-09-01,4648.76,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2016-10-01,1099.32,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2016-11-01,5531.11,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2016-12-01,2910.75,,,,History,,2026-11-12 06:03 UTC
+Technology,South,2017-01-01,3755.53,1727.33,601.5,3792.44,Backtest 2017,2028.2,2026-11-12 06:03 UTC
+Technology,South,2017-02-01,29.16,3065.85,1067.61,6731.23,Backtest 2017,3036.69,2026-11-12 06:03 UTC
+Technology,South,2017-03-01,4231.2,1919.17,668.3,4213.63,Backtest 2017,2312.03,2026-11-12 06:03 UTC
+Technology,South,2017-04-01,2046.88,2345.84,816.88,5150.4,Backtest 2017,298.95,2026-11-12 06:03 UTC
+Technology,South,2017-05-01,1802.81,2783.08,969.14,6110.38,Backtest 2017,980.27,2026-11-12 06:03 UTC
+Technology,South,2017-06-01,4134.18,1996.21,695.13,4382.77,Backtest 2017,2137.97,2026-11-12 06:03 UTC
+Technology,South,2017-07-01,647.35,2342.47,815.71,5143.01,Backtest 2017,1695.12,2026-11-12 06:03 UTC
+Technology,South,2017-08-01,5587.43,2039.55,710.22,4477.92,Backtest 2017,3547.89,2026-11-12 06:03 UTC
+Technology,South,2017-09-01,1500.24,4112.28,1432.0,9028.71,Backtest 2017,2612.04,2026-11-12 06:03 UTC
+Technology,South,2017-10-01,1120.78,3821.59,1330.77,8390.49,Backtest 2017,2700.81,2026-11-12 06:03 UTC
+Technology,South,2017-11-01,15456.58,5764.65,2007.39,12656.58,Backtest 2017,9691.93,2026-11-12 06:03 UTC
+Technology,South,2017-12-01,4515.76,5682.04,1978.63,12475.2,Backtest 2017,1166.28,2026-11-12 06:03 UTC
+Technology,South,2018-01-01,,2412.1,839.95,5295.89,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,South,2018-02-01,,2298.46,800.38,5046.39,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,South,2018-03-01,,2931.53,1020.83,6436.33,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,South,2018-04-01,,2256.41,785.74,4954.06,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,South,2018-05-01,,2600.52,905.56,5709.56,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,South,2018-06-01,,2933.7,1021.59,6441.09,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,South,2018-07-01,,2641.11,919.7,5798.7,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,South,2018-08-01,,4646.15,1617.9,10200.85,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,South,2018-09-01,,4280.07,1490.43,9397.11,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,South,2018-10-01,,4261.4,1483.92,9356.12,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,South,2018-11-01,,7866.73,2739.39,17271.8,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,South,2018-12-01,,5826.24,2028.84,12791.8,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,West,2014-01-01,0.0,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2014-02-01,239.97,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2014-03-01,2410.46,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2014-04-01,4760.53,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2014-05-01,3501.81,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2014-06-01,2419.09,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2014-07-01,4185.86,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2014-08-01,6004.39,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2014-09-01,3655.41,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2014-10-01,3122.67,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2014-11-01,9157.23,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2014-12-01,5496.32,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2015-01-01,1919.98,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2015-02-01,538.92,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2015-03-01,6719.67,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2015-04-01,3506.02,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2015-05-01,4426.03,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2015-06-01,2290.95,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2015-07-01,1353.85,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2015-08-01,4175.17,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2015-09-01,1934.48,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2015-10-01,4113.66,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2015-11-01,4105.28,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2015-12-01,10013.76,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2016-01-01,998.02,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2016-02-01,1400.95,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2016-03-01,8537.85,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2016-04-01,1339.93,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2016-05-01,4659.04,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2016-06-01,9704.2,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2016-07-01,6175.48,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2016-08-01,4075.0,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2016-09-01,11442.32,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2016-10-01,3214.61,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2016-11-01,5367.13,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2016-12-01,9066.66,,,,History,,2026-11-12 06:03 UTC
+Technology,West,2017-01-01,5023.75,2720.18,947.24,5972.3,Backtest 2017,2303.57,2026-11-12 06:03 UTC
+Technology,West,2017-02-01,3579.03,2724.79,948.84,5982.41,Backtest 2017,854.25,2026-11-12 06:03 UTC
+Technology,West,2017-03-01,20351.68,4762.83,1658.53,10457.03,Backtest 2017,15588.85,2026-11-12 06:03 UTC
+Technology,West,2017-04-01,8496.32,3928.78,1368.1,8625.84,Backtest 2017,4567.53,2026-11-12 06:03 UTC
+Technology,West,2017-05-01,8809.34,4353.39,1515.96,9558.08,Backtest 2017,4455.95,2026-11-12 06:03 UTC
+Technology,West,2017-06-01,4027.45,5901.58,2055.07,12957.2,Backtest 2017,1874.13,2026-11-12 06:03 UTC
+Technology,West,2017-07-01,13870.85,5731.01,1995.68,12582.71,Backtest 2017,8139.85,2026-11-12 06:03 UTC
+Technology,West,2017-08-01,6230.79,5251.48,1828.69,11529.88,Backtest 2017,979.31,2026-11-12 06:03 UTC
+Technology,West,2017-09-01,5045.44,7594.29,2644.52,16673.64,Backtest 2017,2548.85,2026-11-12 06:03 UTC
+Technology,West,2017-10-01,4651.81,7073.39,2463.13,15529.97,Backtest 2017,2421.58,2026-11-12 06:03 UTC
+Technology,West,2017-11-01,7808.16,7421.1,2584.21,16293.38,Backtest 2017,387.06,2026-11-12 06:03 UTC
+Technology,West,2017-12-01,8064.52,8562.84,2981.79,18800.13,Backtest 2017,498.31,2026-11-12 06:03 UTC
+Technology,West,2018-01-01,,4499.65,1566.89,9879.21,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,West,2018-02-01,,3763.25,1310.46,8262.41,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,West,2018-03-01,,6838.85,2381.46,15015.03,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,West,2018-04-01,,6843.34,2383.02,15024.88,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,West,2018-05-01,,6758.39,2353.44,14838.39,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,West,2018-06-01,,5665.28,1972.79,12438.39,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,West,2018-07-01,,7458.49,2597.23,16375.49,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,West,2018-08-01,,7351.31,2559.91,16140.17,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,West,2018-09-01,,7664.7,2669.04,16828.24,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,West,2018-10-01,,7439.96,2590.78,16334.8,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,West,2018-11-01,,10121.03,3524.39,22221.23,Forecast 2018,,2026-11-12 06:03 UTC
+Technology,West,2018-12-01,,9894.25,3445.42,21723.32,Forecast 2018,,2026-11-12 06:03 UTC
